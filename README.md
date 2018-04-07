@@ -10,3 +10,7 @@ from click and hover events. Streams are cheap and uniquitions, anything can be 
 
 On top of that, you are given an amazing toolbox of functions to **combine, create and filter** any of those streams.
 
+# 参考文献
+
+[Intro_Reactive_Programm](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
